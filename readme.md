@@ -36,12 +36,11 @@ This roadmap covers **Go backend development** over **4 months**, focusing on re
  ┣ 📂 projects _(Completed projects)_  
  ┗ 📜 README.md _(This file)_  
 
-
 ---
 
 ## 📚 Resources
-- [Go by Example](https://gobyexample.com/)
-- [A Tour of Go](https://tour.golang.org/)
-- [Building REST APIs with Go & Gin](https://github.com/gin-gonic/gin)
+- <a href="https://gobyexample.com/" target="_blank">Go by Example</a>
+- <a href="https://tour.golang.org/" target="_blank">A Tour of Go</a>
+- <a href="https://github.com/gin-gonic/gin" target="_blank">Building REST APIs with Go & Gin</a>
 
 🛠 **Tracking my progress & projects in this repo!**
